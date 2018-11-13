@@ -7,3 +7,8 @@
 
 ## 詳細の議論 チャンネル [#sotsuron](https://furuhashilab.slack.com/messages/CDWJNNCA1/) on Slack
 * https://furuhashilab.slack.com/messages/CDWJNNCA1/
+
+## おすすめ Jkyell テンプレート 
+* https://jekyllthemes.io/theme/compass
+* https://github.com/jeromelachaud/grayscale-theme
+* https://jekyllthemes.io/theme/agency-jekyll-theme
