@@ -1,4 +1,5 @@
 # 卒論2018年度 古橋研究室
+https://furuhashilab.github.io/sotsuron2018/
 
 <img src="https://user-images.githubusercontent.com/416977/48390814-1c66e600-e747-11e8-9cc2-319578639a7e.jpg" alt="doneisbetterthanperfect" width="600px" />
 
