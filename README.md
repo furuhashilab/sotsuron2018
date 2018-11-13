@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/416977/48390814-1c66e600-e747-11e8-9cc2-319578639a7e.jpg" alt="doneisbetterthanperfect" width="600px" />
 
 ## それぞれのプロジェクト管理
-＊ https://github.com/furuhashilab/sotsuron2018/projects
+* https://github.com/furuhashilab/sotsuron2018/projects
 
 ## 詳細の議論 チャンネル [#sotsuron](https://furuhashilab.slack.com/messages/CDWJNNCA1/) on Slack
 * https://furuhashilab.slack.com/messages/CDWJNNCA1/
