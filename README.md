@@ -1,6 +1,6 @@
 # 卒論2018年度 古橋研究室
 
-![doneisbetterthanperfect](https://user-images.githubusercontent.com/416977/48390814-1c66e600-e747-11e8-9cc2-319578639a7e.jpg)
+<img href="https://user-images.githubusercontent.com/416977/48390814-1c66e600-e747-11e8-9cc2-319578639a7e.jpg" alt="doneisbetterthanperfect" height="500" />
 
 
 ## それぞれのプロジェクト管理
