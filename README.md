@@ -8,7 +8,8 @@ https://furuhashilab.github.io/sotsuron2018/
 
 ## 卒論へのリンク
 * Misa Nakai : https://goo.gl/3WXk6K
-
+* Nairu Nomura : https://goo.gl/YuwsXx
+* Ayame Ohtsuki : https://goo.gl/Zg19UQ
 
 ---
 
