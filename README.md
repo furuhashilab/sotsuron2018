@@ -7,6 +7,7 @@ https://furuhashilab.github.io/sotsuron2018/
 * https://github.com/furuhashilab/sotsuron2018/projects
 
 ## 基本形式
+* 卒論本文は GitHub の公開リポジトリとして作成する。
 * IMRAD形式で整理すれば、文字数や表現方法は問わない
 https://ja.wikipedia.org/wiki/IMRAD
 
