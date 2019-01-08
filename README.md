@@ -6,6 +6,10 @@ https://furuhashilab.github.io/sotsuron2018/
 ## それぞれのプロジェクト管理
 * https://github.com/furuhashilab/sotsuron2018/projects
 
+## 基本形式
+* IMRAD形式で整理すれば、文字数や表現方法は問わない
+https://ja.wikipedia.org/wiki/IMRAD
+
 ## 詳細の議論 チャンネル [#sotsuron](https://furuhashilab.slack.com/messages/CDWJNNCA1/) on Slack
 * https://furuhashilab.slack.com/messages/CDWJNNCA1/
 
