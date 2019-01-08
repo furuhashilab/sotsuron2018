@@ -10,6 +10,7 @@ https://furuhashilab.github.io/sotsuron2018/
 * Misa Nakai : https://goo.gl/3WXk6K
 * Nairu Nomura : https://goo.gl/YuwsXx
 * Ayame Ohtsuki : https://goo.gl/Zg19UQ
+* Aya Shibata : https://goo.gl/eVUQY5
 
 ---
 
