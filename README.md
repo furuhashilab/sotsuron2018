@@ -11,6 +11,8 @@ https://furuhashilab.github.io/sotsuron2018/
 * Nairu Nomura : https://goo.gl/YuwsXx
 * Ayame Ohtsuki : https://goo.gl/Zg19UQ
 * Aya Shibata : https://goo.gl/eVUQY5
+* Yuna Watanabe : https://goo.gl/RJQDPs
+* Yuka Kato : https://goo.gl/ZDuUEA
 
 ---
 
