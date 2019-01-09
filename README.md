@@ -13,6 +13,8 @@ https://furuhashilab.github.io/sotsuron2018/
 * Aya Shibata : https://goo.gl/eVUQY5
 * Yuna Watanabe : https://goo.gl/RJQDPs
 * Yuka Kato : https://goo.gl/ZDuUEA
+* Shiori Yamaguchi : https://goo.gl/spMbSi
+
 
 ---
 
