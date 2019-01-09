@@ -22,8 +22,9 @@ https://furuhashilab.github.io/sotsuron2018/
 * [古橋研究室 卒論フォーマット ver0.8](https://github.com/furuhashilab/README/issues/5)
 * 卒論本文は GitHub の公開リポジトリとして作成する。
 * Markdown, Wiki, GitHub Pages 等、本文の表現手法は同一のリポジトリ内であれば問わない。
-* IMRAD形式で整理すれば、文字数や表現方法は問わない
+* IMRaD形式で整理すれば、文字数や表現方法は問わない
 https://ja.wikipedia.org/wiki/IMRAD
+* [参考文献リスト](https://docs.google.com/spreadsheets/d/1dWsWkTzj1CRFqlJrX3B6ZoF0VIulMDeBm0L2XxbNqp8/edit#gid=0) は必ず作成すること。
 
 ## 印刷物提出用テンプレート
 * 各自以下のテンプレートを複製し、作成後、古橋の了承を得た上で学務課に提出。
