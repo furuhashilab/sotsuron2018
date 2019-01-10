@@ -19,7 +19,7 @@ https://furuhashilab.github.io/sotsuron2018/
 ---
 
 ## 基本形式
-* [古橋研究室 卒論フォーマット ver0.8](https://github.com/furuhashilab/README/issues/5)
+* [古橋研究室 卒論フォーマット ver1.0](https://github.com/furuhashilab/README/issues/5)
 * 卒論本文は GitHub の公開リポジトリとして作成する。
 * Markdown, Wiki, GitHub Pages 等、本文の表現手法は同一のリポジトリ内であれば問わない。
 * IMRaD形式で整理すれば、文字数や表現方法は問わない
